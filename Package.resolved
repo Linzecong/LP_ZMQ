@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LPZeroMQ",
+        "repositoryURL": "https://github.com/Linzecong/LPZeroMQ",
+        "state": {
+          "branch": "master",
+          "revision": "9d944010711947029a5ec578753fb6f92b314fe7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
